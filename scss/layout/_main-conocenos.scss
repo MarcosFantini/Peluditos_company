@@ -1,0 +1,12 @@
+main{
+    p{
+        @include flex(center,none,none);
+        
+    }
+    img{
+        margin-left: 15px;
+        height: 215px;
+        width: 180px;
+        border-radius: 75%;
+    }
+}

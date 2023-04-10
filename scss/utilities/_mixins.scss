@@ -1,0 +1,8 @@
+@mixin flex($justify,$align,$text){
+    display: flex;
+    justify-content: $justify;
+    align-items: $align;
+    text-decoration:$text ;
+    
+
+}
